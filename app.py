@@ -9,8 +9,8 @@ import io
 st.set_page_config(page_title="Coffee Break", page_icon="☕")
 
 # --- 1. SEUS LINKS ---
-URL_PLANILHA = "https://google.com"
-URL_SCRIPT_GOOGLE = "https://google.com"
+URL_PLANILHA = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTMOSKTetwvvzGCNkJJYbsEnVnlCKMTQbc8s6jY1va6Ot7OR0XcSjq3BcejF3AXYh7QCsrPQO1FKgev/pubhtml"
+URL_SCRIPT_GOOGLE = "https://script.google.com/macros/s/AKfycbwq6aVdnMVSGt9UmTWgcsCT27WaHxokfW2bV3A5Ojr3Y2ECD3DvGT8wwlwTTuJzVmSh/exec"
 
 # --- 2. CONTROLE DE ACESSO ---
 if "auth" not in st.session_state:
