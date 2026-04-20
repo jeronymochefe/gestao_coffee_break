@@ -10,7 +10,7 @@ st.set_page_config(page_title="Coffee Break", page_icon="☕")
 
 # --- 1. COLE SEUS LINKS AQUI ---
 # O link da sua planilha normal
-URL_PLANILHA = "https://script.google.com/macros/s/AKfycbyRUTx1d1SHeDITb5Azw8RfVzHpr3A5dKo8buaMG4nRqiDitFnWUj89EQdKTvnfk7z9/exec"
+URL_PLANILHA = "https://docs.google.com/spreadsheets/d/1xRBPsZTfQqVVhG-7O0JdvIv-KR1_Q79_RggKEvRezOk/edit?usp=sharing"
 # O link que você copiou do "App da Web" (Passo da Implantação)
 URL_SCRIPT_GOOGLE = "https://script.google.com/macros/s/AKfycbyRUTx1d1SHeDITb5Azw8RfVzHpr3A5dKo8buaMG4nRqiDitFnWUj89EQdKTvnfk7z9/exec"
 
