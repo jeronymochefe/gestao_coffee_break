@@ -10,9 +10,9 @@ st.set_page_config(page_title="Coffee Break", page_icon="☕")
 
 # --- 1. COLE SEUS LINKS AQUI ---
 # O link da sua planilha normal
-URL_PLANILHA = "COLE_AQUI_O_LINK_DA_SUA_PLANILHA"
+URL_PLANILHA = "https://script.google.com/macros/s/AKfycbyRUTx1d1SHeDITb5Azw8RfVzHpr3A5dKo8buaMG4nRqiDitFnWUj89EQdKTvnfk7z9/exec"
 # O link que você copiou do "App da Web" (Passo da Implantação)
-URL_SCRIPT_GOOGLE = "COLE_AQUI_O_URL_DO_APP_DA_WEB"
+URL_SCRIPT_GOOGLE = "https://script.google.com/macros/s/AKfycbyRUTx1d1SHeDITb5Azw8RfVzHpr3A5dKo8buaMG4nRqiDitFnWUj89EQdKTvnfk7z9/exec"
 
 # --- 2. CONTROLE DE ACESSO ---
 if "auth" not in st.session_state:
